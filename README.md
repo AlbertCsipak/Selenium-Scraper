@@ -1,1 +1,1 @@
-#Scraper for sports betting
+Scraper for sports betting
